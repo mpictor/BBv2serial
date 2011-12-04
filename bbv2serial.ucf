@@ -1,0 +1,9 @@
+
+
+# ft2232h connection
+NET "FT_TXD"         LOC =  "P16";
+NET "FT_RXD"         LOC =  "P14";
+
+# "IO9" is TX, "IO10" is RX
+NET "JP2_TXD"            LOC =  "P28";
+NET "JP2_RXD"            LOC =  "P27";
